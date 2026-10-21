@@ -1,0 +1,28 @@
+COMPANY: NovaTech Solutions
+FINANCIAL REPORT: 2025
+(All figures in USD millions)
+
+Revenue:
+2024: $120 million
+2025: $150 million
+
+Net Profit:
+2024: $18 million
+2025: $24 million
+
+Operating Expenses:
+2024: $80 million
+2025: $95 million
+
+Financial Highlights:
+Revenue increased by 25% in 2025.
+Net profit increased by 33.3%.
+Operating expenses increased due to expansion.
+
+Business Risks:
+The company faces cybersecurity threats,
+increased competition, and rising cloud costs.
+
+Future Strategy:
+NovaTech plans to expand its AI services
+and improve operational efficiency.
