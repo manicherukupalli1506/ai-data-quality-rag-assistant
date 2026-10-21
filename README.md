@@ -112,3 +112,6 @@ Based on the included demonstration report:
 ## Project Purpose
 
 This project demonstrates practical skills in Python development, document processing, semantic search, vector databases, retrieval-augmented generation, and building interactive AI applications.
+## Application Screenshot
+
+![Financial Document Intelligence Assistant](app_demo.png)
